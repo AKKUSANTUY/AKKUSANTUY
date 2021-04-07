@@ -1,5 +1,17 @@
 ## Hai 👋, I'm SANTRI CYBER SANTUY
 
+<h4 align="center">
+    🔰HELLO AKKUSANTUY LOVERS🔰
+</h4>
+
+<h4 align="center">
+<a href="#"><img title="Author by SANTRI CYBER" src="https://img.shields.io/badge/AUTHOR%20BY-SANTRI~%20CYBER-yellow?colorA=%23ff0000&colorB=%23FFFF00&style=for-the-badge"></a> 
+<h4 align="center">
+
+<h4 align="center">
+   ❤️Follow My Github And Instagram❤️
+</h4 aling="center">
+
 <p align="center">
    <img src="https://raw.githubusercontent.com/Kingtebe/Kingtebe/master/img/indo.gif" width=1000>
 </p>
@@ -13,5 +25,6 @@
 
 ## MY SOCIAL MEDIA
 * [<img alt="Kingtebe Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/AKKUSANTUY)<br />
-* [<img alt="Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://instagram.com/akku_santuy)<br />
+* [<img alt="Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://facebook.com/JANGAN.LUPA.ISTIGHFAR.CUK.WA.082134566596)<br />
+* [<img alt="Dunia-Kode's WhatsApp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6282134566596)<br />
 * [<img alt="akku_santuy Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/akku_santuy)<br />
