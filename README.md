@@ -1,7 +1,7 @@
 ## Hai 👋, I'm SANTRI CYBER SANTUY
 
 <h4 align="center">
-    🔰HELLO AKKUSANTUY LOVERS🔰
+    🔰⎝◣⏝◢⎠HELLO AKKUSANTUY LOVERS⎝◣⏝◢⎠🔰
 </h4>
 
 <h4 align="center">
@@ -18,6 +18,8 @@
 
 ## MY GITHUB STATS
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AKKUSANTUY alt=AKKUSANTUY /> </p>
+
+<a href="https://github.com/AKKUSANTUY/SMILE-2021"><img title="Tampilan" src="https://github-readme-stats.vercel.app/api/pin/?username=AKKUSANTUY\&repo=SMILE-2021&theme=vision-friendly-dark"></a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=AKKUSANTUY&show_icons=true&theme=dark)
 <p align="center">
