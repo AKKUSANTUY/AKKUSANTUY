@@ -73,6 +73,8 @@
 
 > Keep Connected And Keep Exploit With Me Cuk.
 
+![template_s](https://github.com/Yayan-XD/Yayan-XD/blob/master/img/wallpaperbetter_(1).jpg)
+
 <h3 align="center">
     Copyright©2K21 Santri_Cyber_Santuy
 </h3>
