@@ -20,7 +20,11 @@
    <img src="https://raw.githubusercontent.com/Kingtebe/Kingtebe/master/img/indo.gif" width=1000>
 </p>
 
+> 😁JANGAN LUPA ISTIGHFAR KITA SEMUA PENDOSA😁
+
 <p align='center'><a href="https://instagram.com/rdtutorial_official"><img height="200" src="https://github.com/RDTUTORIAL/RDTUTORIAL/blob/main/profile.jfif?raw=true"></a>&nbsp;&nbsp;</p>
+
+> 🌹FROM_SANTRI_TO_KYAI🌹
 
 <p align='center'>  I'm H4CK3RS404 ! :sunglasses: </p>
 
@@ -66,3 +70,11 @@
 * [<img alt="Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://facebook.com/JANGAN.LUPA.ISTIGHFAR.CUK.WA.082134566596)<br />
 * [<img alt="Dunia-Kode's WhatsApp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6282134566596)<br />
 * [<img alt="akku_santuy Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/akku_santuy)<br />
+
+> Keep Connected And Keep Exploit With Me Cuk.
+
+<h3 align="center">
+    Copyright©2K21 Santri_Cyber_Santuy
+</h3>
+
+> Jepara Muslim Cyber X-ploit
