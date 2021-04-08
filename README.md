@@ -48,6 +48,10 @@
 
 <a href="https://github.com/AKKUSANTUY/5-TOOLS"><img title="Tampilan" src="https://github-readme-stats.vercel.app/api/pin/?username=AKKUSANTUY&repo=5-TOOLS&theme=vision-friendly-dark"></a>
 
+
+<p align="center">
+	<img src="https://i.imgur.com/GNWwMFb.png" width="600px">
+
 ## MY SOCIAL MEDIA CUK
 * [<img alt="Kingtebe Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/AKKUSANTUY)<br />
 * [<img alt="Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://facebook.com/JANGAN.LUPA.ISTIGHFAR.CUK.WA.082134566596)<br />
