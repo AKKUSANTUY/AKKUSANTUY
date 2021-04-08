@@ -42,6 +42,12 @@
 
 <a href="https://github.com/AKKUSANTUY/HackID"><img title="Tampilan" src="https://github-readme-stats.vercel.app/api/pin/?username=AKKUSANTUY&repo=HackID&theme=vision-friendly-dark"></a>
 
+<a href="https://github.com/AKKUSANTUY/SCSantuy"><img title="Tampilan" src="https://github-readme-stats.vercel.app/api/pin/?username=AKKUSANTUY&repo=SCSantuy&theme=vision-friendly-dark"></a>
+
+<a href="https://github.com/AKKUSANTUY/ToolsX-IG"><img title="Tampilan" src="https://github-readme-stats.vercel.app/api/pin/?username=AKKUSANTUY&repo=ToolsX-IG&theme=vision-friendly-dark"></a>
+
+<a href="https://github.com/AKKUSANTUY/5-TOOLS"><img title="Tampilan" src="https://github-readme-stats.vercel.app/api/pin/?username=AKKUSANTUY&repo=5-TOOLS&theme=vision-friendly-dark"></a>
+
 ## MY SOCIAL MEDIA CUK
 * [<img alt="Kingtebe Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/AKKUSANTUY)<br />
 * [<img alt="Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://facebook.com/JANGAN.LUPA.ISTIGHFAR.CUK.WA.082134566596)<br />
