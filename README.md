@@ -28,6 +28,9 @@
 
 <p align='center'>  I'm H4CK3RS404 ! :sunglasses: </p>
 
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/AKKUSANTUY)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/BUKAN.HACKER.CUK)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/akku_santuy) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282134566596?text=Asalamualaikum+bang)
+
 <p align='center'> I Love Technology, Hacking And I Want To Know Everything. :ghost: </p>
 
 <p align="center"> 
