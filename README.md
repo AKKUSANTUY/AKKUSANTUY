@@ -34,8 +34,8 @@
 <p align='center'> I Love Technology, Hacking And I Want To Know Everything. :ghost: </p>
 
 <p align="center"> 
-<a href="https://github.com/Tegar-ID/followers">
-<img title="Followers" src="https://img.shields.io/github/followers/Tegar-ID?color=blue&style=flat-square"></a>
+<a href="https://github.com/Yayan-XD/followers">
+<img title="Followers" src="https://img.shields.io/github/followers/Yayan-XD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Tegar-ID/Phish/stargazers/">
 <img title="Stars" src="https://img.shields.io/github/stars/Tegar-ID/Phish?color=red&style=flat-square"></a>
 <a href="https://github.com/Tegar-ID/Phish/network/members">
