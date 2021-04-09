@@ -74,6 +74,8 @@
 * [<img alt="Dunia-Kode's WhatsApp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6282134566596)<br />
 * [<img alt="akku_santuy Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/akku_santuy)<br />
 
+<img src="https://d.top4top.io/p_1895rl0161.gif" width=100% height=auto>
+
 > Keep Connected And Keep Exploit With Me Cuk.
 
 ![template_s](https://github.com/Yayan-XD/Yayan-XD/blob/master/img/wallpaperbetter_(1).jpg)
