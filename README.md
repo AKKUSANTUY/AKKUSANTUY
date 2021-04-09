@@ -47,7 +47,7 @@
 </p> 
 
 ## MY GITHUB STATS CUK
-<p align=left> <img src=https://komarev.com/ghpvc/?username=AKKUSANTUY alt=AKKUSANTUY /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=xdvrx1 alt=xdvrx1 /> </p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=AKKUSANTUY&show_icons=true&theme=dark)
 <p align="center">
