@@ -20,6 +20,9 @@
    <img src="https://raw.githubusercontent.com/Kingtebe/Kingtebe/master/img/indo.gif" width=1000>
 </p>
 
+- 💙 I love coding...
+![](1606467997077.jpg)
+
 > 😁JANGAN LUPA ISTIGHFAR KITA SEMUA PENDOSA😁
 
 <p align='center'><a href="https://instagram.com/rdtutorial_official"><img height="200" src="https://github.com/RDTUTORIAL/RDTUTORIAL/blob/main/profile.jfif?raw=true"></a>&nbsp;&nbsp;</p>
