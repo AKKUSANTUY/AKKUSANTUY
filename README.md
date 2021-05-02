@@ -57,6 +57,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKKUSANTUY&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
 
+<a href="https://github.com/AKKUSANTUY/scdeface01"><img title="Tampilan" src="https://github-readme-stats.vercel.app/api/pin/?username=AKKUSANTUY&repo=scdeface01&theme=vision-friendly-dark"></a>
+
 <a href="https://github.com/AKKUSANTUY/SMILE-2021"><img title="Tampilan" src="https://github-readme-stats.vercel.app/api/pin/?username=AKKUSANTUY&repo=SMILE-2021&theme=vision-friendly-dark"></a>
 
 <a href="https://github.com/AKKUSANTUY/CCTV"><img title="Tampilan" src="https://github-readme-stats.vercel.app/api/pin/?username=AKKUSANTUY&repo=CCTV&theme=vision-friendly-dark"></a>
